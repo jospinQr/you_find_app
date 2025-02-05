@@ -1,0 +1,88 @@
+import '../domain/model/Product.dart';
+
+final List<Product> products = [
+  Product(
+    id: 1,
+    designation: "IPhone 12",
+    price: 5.9,
+    categorie: "Electronique",
+    imgUrl: "iphone.jpeg",
+  ),
+  Product(
+    id: 13,
+    designation: "Dictionnaire",
+    price: 10.9,
+    categorie: "Livre",
+    imgUrl: "dictionnaire.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto apash",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "moto.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto Evo",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "iphone.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto apash",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "moto.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto Evo",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "iphone.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto apash",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "moto.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto Evo",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "iphone.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto apash",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "moto.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto Evo",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "iphone.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto apash",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "moto.jpeg",
+  ),
+  Product(
+    id: 12,
+    designation: "Moto Evo",
+    price: 1500.9,
+    categorie: "Moto",
+    imgUrl: "iphone.jpeg",
+  ),
+];
